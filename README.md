@@ -8,6 +8,8 @@ Catégorie: Elaboration du design
 Enseignant: Manuel Schmalstieg  
 Assistante: Nyx Schutz  
 Lien: [https://eracom-id412.github.io/eedev2/](https://eracom-id412.github.io/eedev2/)
+Organisation Github: [https://github.com/eracom-id412](https://github.com/eracom-id412)
+Team Figma: [https://www.figma.com/files/team/1199710285287442347](https://www.figma.com/files/team/1199710285287442347)
 
 
 ## Introduction
