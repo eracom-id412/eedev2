@@ -7,7 +7,7 @@ Acronyme cours: EEDEV
 Catégorie: Elaboration du design  
 Enseignant: Manuel Schmalstieg  
 Assistante: Nyx Schutz  
-Lien: [https://code.eracom-pedagogique.ch/eedev2-id311/](https://code.eracom-pedagogique.ch/eedev2-id311/)
+Lien: [https://eracom-id412.github.io/eedev2/](https://eracom-id412.github.io/eedev2/)
 
 
 ## Introduction
