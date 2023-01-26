@@ -1,0 +1,27 @@
+remote_theme: coursweb/jk-theme
+title: EEDEV 2 - ID412
+description: Développement d’interfaces 2 – CSS
+lang: fr-FR
+# markdown: GFM
+robots: noindex, nofollow
+# menu 
+chapters:
+ - title: Cours Dev 2
+   url: https://code.eracom-pedagogique.ch/eedev2/
+ - title: Référence CSS
+   url: https://cours-web.ch/css/
+ - title: Infos IMD
+   url: https://eracom.ch/informations-eleves-id/
+# - title: Plan de formation
+#   url: https://code.eracom-pedagogique.ch/formation-imd-2020/   
+# - title: Fontes IMD
+#   url: https://code.eracom-pedagogique.ch/fontes-imd/  
+ - title: Figma
+   url: https://www.figma.com/files/team/1199710285287442347
+# - title: 🧠 Podsie
+#   url: https://student.podsie.org/
+# pied de page   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2023</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom-id412/eedev2/">Lien Github</a></li></ul>
