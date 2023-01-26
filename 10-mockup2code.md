@@ -24,8 +24,8 @@ Une page web codée en HTML et CSS, correspondant au plus près à la maquette.
 Les éléments indispensables:
 
 - En-tête de page avec menu de navigation
-- Pied de page
 - Une section de contenu (pas forcément toutes les sections du template)
+- Pied de page
 - La page doit être publiée sur Github (avec Github Pages ou Netlify)
 
 ## Critères d'évaluation
