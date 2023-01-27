@@ -8,8 +8,8 @@ Objectif : améliorer un projet réalisé dans les cours "Développement d'inter
 
 ## Déroulement
 
-- 12 mai : introduction au sujet de l'accessibilité.
-- 26 mai : performance web.
+- 12 mai : cours sur l'accessibilité.
+- 26 mai : cours performance web.
 - 2 juin : appliquer optimisations.
 - **9 juin: rendu / présentation.**
 

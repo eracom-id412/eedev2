@@ -32,7 +32,7 @@ Les trois projets suivants feront l'objet d'une évaluation:
 
 2) **Questionnaire** : une évaluation sous forme de questionnaire couvrant les connaissances CSS. Questionnaire de test effectué le 17 mars. Le Questionnaire final réalisé le 5 mai.
 
-3) **[Qualité Web](qualite-web.html)** : améliorer un projet réalisé dans le cours "Projet interface (site web responsive)", ou un autre projet web réalisé dans un cours précédent. Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test. Réalisé du 12 mai au 9 juin 2023.
+3) **[Qualité Web](qualite-web.html)** : améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test. Réalisé du 12 mai au 9 juin 2023.
 
 ## Ressources
 
