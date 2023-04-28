@@ -10,8 +10,8 @@ Un questionnaire pour valider vos connaissances théoriques et techniques.
 
 - L’examen est par écrit (QCM)
 - Il est composé de 30 questions
-- En principe, plusieurs réponses peuvent être juste, ou toutes, ou aucune.
-- Les questions à quatre résponses possibles donnent 2 points.  
+- En principe, plusieurs réponses peuvent être justes (ou toutes, ou aucune).
+- Les questions à 4 résponses possibles donnent 2 points.  
   - Aucune erreur = 2pts
   - Une erreur = 1pt
   - Deux erreurs et plus = 0 points
