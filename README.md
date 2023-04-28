@@ -30,7 +30,7 @@ Les trois projets suivants feront l'objet d'une évaluation:
 
 1) **[Mockup 2 Code](mockup2code.html)** : traduire un design visuel fourni en code. Réalisé du 27 janvier au 10 mars 2023.
 
-2) **Questionnaire** : une évaluation sous forme de questionnaire couvrant les connaissances CSS. Questionnaire de test effectué le 17 mars. Le Questionnaire final réalisé le 5 mai.
+2) **[Questionnaire](questionnaire.html)** : une évaluation sous forme de questionnaire couvrant les connaissances CSS. Questionnaire de test effectué le 17 mars. Le Questionnaire final réalisé le 5 mai.
 
 3) **[Qualité Web](qualite-web.html)** : améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test. Réalisé du 12 mai au 9 juin 2023.
 
