@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Questionnaire
+title: Evaluation théorie
 permalink: questionnaire.html
 ---
 
-Un questionnaire pour valider vos connaissances théoriques et techniques.
+Une évaluation sous forme de questionnaire, pour valider vos connaissances théoriques et techniques.
 
 ## Principes
 
