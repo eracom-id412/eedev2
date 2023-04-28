@@ -28,19 +28,30 @@ Points importants:
 
 ## Les matières concernées
 
-1. [Unités CSS](https://cours-web.ch/css/units.html) - cours du 28 avril
-2. [Couleur](https://cours-web.ch/css/color.html) - cours du 28 avril
-3. [Sélecteurs](https://cours-web.ch/css/selectors.html) - cours du 31 mars
-4. [Spécificité](https://cours-web.ch/css/specificite.html) - cours du 31 mars
-5. Responsive Layout et Media Queries - [cours du 17 mars](https://github.com/eracom-id412/site-responsive-demo)
-6. [Flexbox](https://cours-web.ch/css-flexbox/) - cours du 24 mars
-7. [Grid Layout](https://cours-web.ch/css-grid/) - cours du 3 et 10 février
-
-
+1. Unités CSS
+2. Couleur CSS
+3. Sélecteurs
+5. Responsive Layout et Media Queries
+6. Flexbox
+7. Grid Layout
 
 ## Ressources pour s'exercer
 
-- [exercices Flexbox à résoudre](https://github.com/eracom-id412/Solved-by-Flexbox/)
-- [Les sélecteurs CSS, exercices](https://www.figma.com/file/wZ229bSlMpxrA68pM2Q7lZ/exercices-s%C3%A9lecteurs)
-- [La spécificité CSS](https://www.figma.com/file/v4yxbFIwOfTBrjGAvB895o/Sp%C3%A9cificit%C3%A9-CSS)  
+### Exercices et exemples
 
+- [Démo Grid Layout](https://github.com/eracom-id412/grid-layout-demo)
+- [Exercices Flexbox à résoudre](https://github.com/eracom-id412/Solved-by-Flexbox/)
+- Démo [Responsive et Media Queries](https://github.com/eracom-id412/site-responsive-demo)
+- [Les sélecteurs CSS, exercices](https://www.figma.com/file/wZ229bSlMpxrA68pM2Q7lZ/exercices-s%C3%A9lecteurs)
+- [La spécificité CSS](https://www.figma.com/file/v4yxbFIwOfTBrjGAvB895o/Sp%C3%A9cificit%C3%A9-CSS)
+
+
+### Support de cours
+
+1. [Unités CSS](https://cours-web.ch/css/units.html) (cours du 28 avril)
+2. [Couleur](https://cours-web.ch/css/color.html) (cours du 28 avril)
+3. [Sélecteurs](https://cours-web.ch/css/selectors.html) (cours du 31 mars)
+4. [Spécificité](https://cours-web.ch/css/specificite.html) (cours du 31 mars)
+5. Responsive Layout et Media Queries - (cours du 17 mars)
+6. [Flexbox](https://cours-web.ch/css-flexbox/) (cours du 24 mars)
+7. [Grid Layout](https://cours-web.ch/css-grid/) (cours du 3 et 10 février)
