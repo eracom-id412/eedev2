@@ -4,7 +4,7 @@ title: Qualité Web
 permalink: qualite-web.html
 ---
 
-Objectif : améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend, dans le but d'obtenir les scores maximum dans les outils de test.
+Objectif : améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend.
 
 ## Déroulement
 
@@ -15,4 +15,15 @@ Objectif : améliorer un projet réalisé dans les cours "Développement d'inter
 
 ## Evaluation
 
-Infos à venir.
+**Critères de base :**
+
+- Choisir et appliquer des optimisations A11Y
+- Choisir et appliquer des optimisations Performance
+- Mesurer l'amélioration avec des indicateurs 
+- Versionnage avec Git
+
+## Liens et ressources
+
+- [La checklist Qualité Web](https://checklists.opquast.com/fr/assurance-qualite-web/) de Opquast
+- [Infos accessibilité](https://web.dev/accessible/) sur Web.Dev
+- [Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) par Bitsofco.de (Ire Aderinokun)
