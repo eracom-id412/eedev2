@@ -27,3 +27,4 @@ Objectif : améliorer un projet réalisé dans les cours "Développement d'inter
 - [La checklist Qualité Web](https://checklists.opquast.com/fr/assurance-qualite-web/) de Opquast
 - [Infos accessibilité](https://web.dev/accessible/) sur Web.Dev
 - [Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/) par Bitsofco.de (Ire Aderinokun)
+- [Le rapport WebAIM Million](https://webaim.org/projects/million/) donnne des statistiques très intéressances sur l'accessibilité des sites. Selon la norme WCAG 2, 96.3% des pages d'accueil ont des problèmes d'accessibilité.
