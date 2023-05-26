@@ -10,7 +10,7 @@ Informations sur la performance.
 
 - [Compression d'images](https://cours-web.ch/media/media/compression/) avec ImageOptim
 - [WebP et autres formats modernes](https://cours-web.ch/media/format-webp.html)
-
+- [Le Lazyload](https://cours-web.ch/media/33-lazyload.html)
 
 ## Liste d'outils d'analyse
 
