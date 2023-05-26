@@ -4,7 +4,9 @@ title: Qualité Web
 permalink: qualite-web.html
 ---
 
-Objectif : améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend.
+**Dates :** du 12 mai au 9 juin.
+
+**Objectif :** améliorer un projet réalisé dans les cours "Développement d'interfaces". Optimiser l'accessibilité et la performance frontend.
 
 ## Déroulement
 
