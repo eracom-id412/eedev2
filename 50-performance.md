@@ -12,7 +12,7 @@ Informations sur la performance.
 - [WebP et autres formats modernes](https://cours-web.ch/media/format-webp.html)
 
 
-## Liste d'outils d'analyse
+## Liste d'outils d'analyse
 
 - [Request Map](http://requestmap.webperf.tools/)  - dessine une arborescence des requêtes à divers domaines, effectués lors du chargement d'une page. Permet de détecter l'importance des connexions des scripts d'analytics, réseaux sociaux, etc.
 - [WebPageTest](https://www.webpagetest.org/)

@@ -22,7 +22,7 @@ Objectif : améliorer un projet réalisé dans les cours "Développement d'inter
 - Mesurer l'amélioration avec des indicateurs 
 - Versionnage avec Git
 
-Utilisez la fiche "[qualite-web.md](qualite-web.md)" et copiez-la dans votre répertoire de travail Git. Cette fiche utilise [le format Markdown](https://cours-web.ch/markdown/bases.html).
+Utilisez la fiche "[qualite-web.md](https://github.com/eracom-id412/qualite-web/blob/main/qualite-web.md?plain=1)" et copiez-la dans votre répertoire de travail Git, en la nommant `qualite-web.md`. Remplissez toutes les sections avec vos informations. Cette fiche utilise [le format Markdown](https://cours-web.ch/markdown/bases.html).
 
 ## Liens et ressources
 
