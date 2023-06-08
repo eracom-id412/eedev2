@@ -10,7 +10,7 @@ Informations sur la performance.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FUnr3Mwo5LTrsw7f3Hxl1CD%2FQualit%25C3%25A9-Web-ID412%3Ftype%3Dwhiteboard%26node-id%3D0%253A1%26t%3DzpTsYMWuhzKYfSfN-1" allowfullscreen></iframe>
 
-## Concernant l'optimsation des images
+## Concernant l'optimisation des images
 
 - [Compression d'images](https://cours-web.ch/media/media/compression/) avec ImageOptim
 - [WebP et autres formats modernes](https://cours-web.ch/media/format-webp.html)
@@ -18,7 +18,7 @@ Informations sur la performance.
 
 ## Concernant la minification du code
 
-L'extension [Minify pour VSCode](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify) permet 
+L'extension [Minify pour VSCode](https://marketplace.visualstudio.com/items?itemName=HookyQR.minify) permet de réduire la taille des fichiers.
 
 ## Liste d'outils d'analyse
 
