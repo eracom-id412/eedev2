@@ -8,10 +8,10 @@ Une évaluation sous forme de questionnaire, pour valider vos connaissances thé
 
 ## Principes
 
-- L’examen est par écrit (QCM)
-- Il est composé de 30 questions
+- Examen par écrit, sur papier (QCM)
+- Composé de 30 questions
 - En principe, plusieurs réponses peuvent être justes (ou toutes, ou aucune).
-- Les questions à 4 résponses possibles donnent 2 points.  
+- Les questions à 4 réponses possibles donnent 2 points.  
   - Aucune erreur = 2pts
   - Une erreur = 1pt
   - Deux erreurs et plus = 0 points
